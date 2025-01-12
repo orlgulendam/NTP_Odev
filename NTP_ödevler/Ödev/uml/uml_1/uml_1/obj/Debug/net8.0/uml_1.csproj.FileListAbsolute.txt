@@ -1,0 +1,14 @@
+C:\Users\ayf54\source\repos\uml_1\uml_1\bin\Debug\net8.0\uml_1.exe
+C:\Users\ayf54\source\repos\uml_1\uml_1\bin\Debug\net8.0\uml_1.deps.json
+C:\Users\ayf54\source\repos\uml_1\uml_1\bin\Debug\net8.0\uml_1.runtimeconfig.json
+C:\Users\ayf54\source\repos\uml_1\uml_1\bin\Debug\net8.0\uml_1.dll
+C:\Users\ayf54\source\repos\uml_1\uml_1\bin\Debug\net8.0\uml_1.pdb
+C:\Users\ayf54\source\repos\uml_1\uml_1\obj\Debug\net8.0\uml_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayf54\source\repos\uml_1\uml_1\obj\Debug\net8.0\uml_1.AssemblyInfoInputs.cache
+C:\Users\ayf54\source\repos\uml_1\uml_1\obj\Debug\net8.0\uml_1.AssemblyInfo.cs
+C:\Users\ayf54\source\repos\uml_1\uml_1\obj\Debug\net8.0\uml_1.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\uml_1\uml_1\obj\Debug\net8.0\uml_1.dll
+C:\Users\ayf54\source\repos\uml_1\uml_1\obj\Debug\net8.0\refint\uml_1.dll
+C:\Users\ayf54\source\repos\uml_1\uml_1\obj\Debug\net8.0\uml_1.pdb
+C:\Users\ayf54\source\repos\uml_1\uml_1\obj\Debug\net8.0\uml_1.genruntimeconfig.cache
+C:\Users\ayf54\source\repos\uml_1\uml_1\obj\Debug\net8.0\ref\uml_1.dll

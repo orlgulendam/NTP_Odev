@@ -1,0 +1,14 @@
+C:\Users\ayf54\source\repos\sanalbanka\sanalbanka\bin\Debug\net8.0\sanalbanka.exe
+C:\Users\ayf54\source\repos\sanalbanka\sanalbanka\bin\Debug\net8.0\sanalbanka.deps.json
+C:\Users\ayf54\source\repos\sanalbanka\sanalbanka\bin\Debug\net8.0\sanalbanka.runtimeconfig.json
+C:\Users\ayf54\source\repos\sanalbanka\sanalbanka\bin\Debug\net8.0\sanalbanka.dll
+C:\Users\ayf54\source\repos\sanalbanka\sanalbanka\bin\Debug\net8.0\sanalbanka.pdb
+C:\Users\ayf54\source\repos\sanalbanka\sanalbanka\obj\Debug\net8.0\sanalbanka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayf54\source\repos\sanalbanka\sanalbanka\obj\Debug\net8.0\sanalbanka.AssemblyInfoInputs.cache
+C:\Users\ayf54\source\repos\sanalbanka\sanalbanka\obj\Debug\net8.0\sanalbanka.AssemblyInfo.cs
+C:\Users\ayf54\source\repos\sanalbanka\sanalbanka\obj\Debug\net8.0\sanalbanka.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\sanalbanka\sanalbanka\obj\Debug\net8.0\sanalbanka.dll
+C:\Users\ayf54\source\repos\sanalbanka\sanalbanka\obj\Debug\net8.0\refint\sanalbanka.dll
+C:\Users\ayf54\source\repos\sanalbanka\sanalbanka\obj\Debug\net8.0\sanalbanka.pdb
+C:\Users\ayf54\source\repos\sanalbanka\sanalbanka\obj\Debug\net8.0\sanalbanka.genruntimeconfig.cache
+C:\Users\ayf54\source\repos\sanalbanka\sanalbanka\obj\Debug\net8.0\ref\sanalbanka.dll

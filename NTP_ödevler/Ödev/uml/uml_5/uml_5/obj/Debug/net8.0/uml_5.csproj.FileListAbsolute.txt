@@ -1,0 +1,14 @@
+C:\Users\ayf54\source\repos\uml_5\uml_5\bin\Debug\net8.0\uml_5.exe
+C:\Users\ayf54\source\repos\uml_5\uml_5\bin\Debug\net8.0\uml_5.deps.json
+C:\Users\ayf54\source\repos\uml_5\uml_5\bin\Debug\net8.0\uml_5.runtimeconfig.json
+C:\Users\ayf54\source\repos\uml_5\uml_5\bin\Debug\net8.0\uml_5.dll
+C:\Users\ayf54\source\repos\uml_5\uml_5\bin\Debug\net8.0\uml_5.pdb
+C:\Users\ayf54\source\repos\uml_5\uml_5\obj\Debug\net8.0\uml_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayf54\source\repos\uml_5\uml_5\obj\Debug\net8.0\uml_5.AssemblyInfoInputs.cache
+C:\Users\ayf54\source\repos\uml_5\uml_5\obj\Debug\net8.0\uml_5.AssemblyInfo.cs
+C:\Users\ayf54\source\repos\uml_5\uml_5\obj\Debug\net8.0\uml_5.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\uml_5\uml_5\obj\Debug\net8.0\uml_5.dll
+C:\Users\ayf54\source\repos\uml_5\uml_5\obj\Debug\net8.0\refint\uml_5.dll
+C:\Users\ayf54\source\repos\uml_5\uml_5\obj\Debug\net8.0\uml_5.pdb
+C:\Users\ayf54\source\repos\uml_5\uml_5\obj\Debug\net8.0\uml_5.genruntimeconfig.cache
+C:\Users\ayf54\source\repos\uml_5\uml_5\obj\Debug\net8.0\ref\uml_5.dll

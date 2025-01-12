@@ -1,0 +1,10 @@
+C:\Users\ayf54\source\repos\UÇAN_KUŞ\UÇAN_KUŞ\bin\Debug\UÇAN_KUŞ.exe.config
+C:\Users\ayf54\source\repos\UÇAN_KUŞ\UÇAN_KUŞ\bin\Debug\UÇAN_KUŞ.exe
+C:\Users\ayf54\source\repos\UÇAN_KUŞ\UÇAN_KUŞ\bin\Debug\UÇAN_KUŞ.pdb
+C:\Users\ayf54\source\repos\UÇAN_KUŞ\UÇAN_KUŞ\obj\Debug\UÇAN_KUŞ.csproj.AssemblyReference.cache
+C:\Users\ayf54\source\repos\UÇAN_KUŞ\UÇAN_KUŞ\obj\Debug\UÇAN_KUŞ.Form1.resources
+C:\Users\ayf54\source\repos\UÇAN_KUŞ\UÇAN_KUŞ\obj\Debug\UÇAN_KUŞ.Properties.Resources.resources
+C:\Users\ayf54\source\repos\UÇAN_KUŞ\UÇAN_KUŞ\obj\Debug\UÇAN_KUŞ.csproj.GenerateResource.cache
+C:\Users\ayf54\source\repos\UÇAN_KUŞ\UÇAN_KUŞ\obj\Debug\UÇAN_KUŞ.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\UÇAN_KUŞ\UÇAN_KUŞ\obj\Debug\UÇAN_KUŞ.exe
+C:\Users\ayf54\source\repos\UÇAN_KUŞ\UÇAN_KUŞ\obj\Debug\UÇAN_KUŞ.pdb

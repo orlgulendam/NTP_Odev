@@ -1,0 +1,14 @@
+C:\Users\ayf54\source\repos\örn2\örn2\bin\Debug\net8.0\örn2.exe
+C:\Users\ayf54\source\repos\örn2\örn2\bin\Debug\net8.0\örn2.deps.json
+C:\Users\ayf54\source\repos\örn2\örn2\bin\Debug\net8.0\örn2.runtimeconfig.json
+C:\Users\ayf54\source\repos\örn2\örn2\bin\Debug\net8.0\örn2.dll
+C:\Users\ayf54\source\repos\örn2\örn2\bin\Debug\net8.0\örn2.pdb
+C:\Users\ayf54\source\repos\örn2\örn2\obj\Debug\net8.0\örn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayf54\source\repos\örn2\örn2\obj\Debug\net8.0\örn2.AssemblyInfoInputs.cache
+C:\Users\ayf54\source\repos\örn2\örn2\obj\Debug\net8.0\örn2.AssemblyInfo.cs
+C:\Users\ayf54\source\repos\örn2\örn2\obj\Debug\net8.0\örn2.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\örn2\örn2\obj\Debug\net8.0\örn2.dll
+C:\Users\ayf54\source\repos\örn2\örn2\obj\Debug\net8.0\refint\örn2.dll
+C:\Users\ayf54\source\repos\örn2\örn2\obj\Debug\net8.0\örn2.pdb
+C:\Users\ayf54\source\repos\örn2\örn2\obj\Debug\net8.0\örn2.genruntimeconfig.cache
+C:\Users\ayf54\source\repos\örn2\örn2\obj\Debug\net8.0\ref\örn2.dll

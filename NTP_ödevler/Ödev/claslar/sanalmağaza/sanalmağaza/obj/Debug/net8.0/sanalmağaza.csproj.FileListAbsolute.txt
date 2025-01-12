@@ -1,0 +1,14 @@
+C:\Users\ayf54\source\repos\sanalmağaza\sanalmağaza\bin\Debug\net8.0\sanalmağaza.exe
+C:\Users\ayf54\source\repos\sanalmağaza\sanalmağaza\bin\Debug\net8.0\sanalmağaza.deps.json
+C:\Users\ayf54\source\repos\sanalmağaza\sanalmağaza\bin\Debug\net8.0\sanalmağaza.runtimeconfig.json
+C:\Users\ayf54\source\repos\sanalmağaza\sanalmağaza\bin\Debug\net8.0\sanalmağaza.dll
+C:\Users\ayf54\source\repos\sanalmağaza\sanalmağaza\bin\Debug\net8.0\sanalmağaza.pdb
+C:\Users\ayf54\source\repos\sanalmağaza\sanalmağaza\obj\Debug\net8.0\sanalmağaza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayf54\source\repos\sanalmağaza\sanalmağaza\obj\Debug\net8.0\sanalmağaza.AssemblyInfoInputs.cache
+C:\Users\ayf54\source\repos\sanalmağaza\sanalmağaza\obj\Debug\net8.0\sanalmağaza.AssemblyInfo.cs
+C:\Users\ayf54\source\repos\sanalmağaza\sanalmağaza\obj\Debug\net8.0\sanalmağaza.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\sanalmağaza\sanalmağaza\obj\Debug\net8.0\sanalmağaza.dll
+C:\Users\ayf54\source\repos\sanalmağaza\sanalmağaza\obj\Debug\net8.0\refint\sanalmağaza.dll
+C:\Users\ayf54\source\repos\sanalmağaza\sanalmağaza\obj\Debug\net8.0\sanalmağaza.pdb
+C:\Users\ayf54\source\repos\sanalmağaza\sanalmağaza\obj\Debug\net8.0\sanalmağaza.genruntimeconfig.cache
+C:\Users\ayf54\source\repos\sanalmağaza\sanalmağaza\obj\Debug\net8.0\ref\sanalmağaza.dll

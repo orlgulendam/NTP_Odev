@@ -1,0 +1,14 @@
+C:\Users\ayf54\source\repos\hayvanatbahcesi\hayvanatbahcesi\bin\Debug\net8.0\hayvanatbahcesi.exe
+C:\Users\ayf54\source\repos\hayvanatbahcesi\hayvanatbahcesi\bin\Debug\net8.0\hayvanatbahcesi.deps.json
+C:\Users\ayf54\source\repos\hayvanatbahcesi\hayvanatbahcesi\bin\Debug\net8.0\hayvanatbahcesi.runtimeconfig.json
+C:\Users\ayf54\source\repos\hayvanatbahcesi\hayvanatbahcesi\bin\Debug\net8.0\hayvanatbahcesi.dll
+C:\Users\ayf54\source\repos\hayvanatbahcesi\hayvanatbahcesi\bin\Debug\net8.0\hayvanatbahcesi.pdb
+C:\Users\ayf54\source\repos\hayvanatbahcesi\hayvanatbahcesi\obj\Debug\net8.0\hayvanatbahcesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayf54\source\repos\hayvanatbahcesi\hayvanatbahcesi\obj\Debug\net8.0\hayvanatbahcesi.AssemblyInfoInputs.cache
+C:\Users\ayf54\source\repos\hayvanatbahcesi\hayvanatbahcesi\obj\Debug\net8.0\hayvanatbahcesi.AssemblyInfo.cs
+C:\Users\ayf54\source\repos\hayvanatbahcesi\hayvanatbahcesi\obj\Debug\net8.0\hayvanatbahcesi.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\hayvanatbahcesi\hayvanatbahcesi\obj\Debug\net8.0\hayvanatbahcesi.dll
+C:\Users\ayf54\source\repos\hayvanatbahcesi\hayvanatbahcesi\obj\Debug\net8.0\refint\hayvanatbahcesi.dll
+C:\Users\ayf54\source\repos\hayvanatbahcesi\hayvanatbahcesi\obj\Debug\net8.0\hayvanatbahcesi.pdb
+C:\Users\ayf54\source\repos\hayvanatbahcesi\hayvanatbahcesi\obj\Debug\net8.0\hayvanatbahcesi.genruntimeconfig.cache
+C:\Users\ayf54\source\repos\hayvanatbahcesi\hayvanatbahcesi\obj\Debug\net8.0\ref\hayvanatbahcesi.dll

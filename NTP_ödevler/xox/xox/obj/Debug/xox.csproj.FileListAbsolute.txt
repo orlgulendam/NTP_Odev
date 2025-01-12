@@ -1,0 +1,13 @@
+C:\Users\ayf54\source\repos\xox\xox\bin\Debug\xox.exe.config
+C:\Users\ayf54\source\repos\xox\xox\bin\Debug\xox.exe
+C:\Users\ayf54\source\repos\xox\xox\bin\Debug\xox.pdb
+C:\Users\ayf54\source\repos\xox\xox\obj\Debug\xox.csproj.AssemblyReference.cache
+C:\Users\ayf54\source\repos\xox\xox\obj\Debug\xox.Form1.resources
+C:\Users\ayf54\source\repos\xox\xox\obj\Debug\xox.Form2.resources
+C:\Users\ayf54\source\repos\xox\xox\obj\Debug\xox.Form3.resources
+C:\Users\ayf54\source\repos\xox\xox\obj\Debug\xox.Properties.Resources.resources
+C:\Users\ayf54\source\repos\xox\xox\obj\Debug\xox.csproj.GenerateResource.cache
+C:\Users\ayf54\source\repos\xox\xox\obj\Debug\xox.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\xox\xox\obj\Debug\xox.exe
+C:\Users\ayf54\source\repos\xox\xox\obj\Debug\xox.pdb
+C:\Users\ayf54\source\repos\xox\xox\obj\Debug\xox.Form4.resources

@@ -1,0 +1,14 @@
+C:\Users\ayf54\source\repos\matematik\matematik\bin\Debug\net8.0\matematik.exe
+C:\Users\ayf54\source\repos\matematik\matematik\bin\Debug\net8.0\matematik.deps.json
+C:\Users\ayf54\source\repos\matematik\matematik\bin\Debug\net8.0\matematik.runtimeconfig.json
+C:\Users\ayf54\source\repos\matematik\matematik\bin\Debug\net8.0\matematik.dll
+C:\Users\ayf54\source\repos\matematik\matematik\bin\Debug\net8.0\matematik.pdb
+C:\Users\ayf54\source\repos\matematik\matematik\obj\Debug\net8.0\matematik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayf54\source\repos\matematik\matematik\obj\Debug\net8.0\matematik.AssemblyInfoInputs.cache
+C:\Users\ayf54\source\repos\matematik\matematik\obj\Debug\net8.0\matematik.AssemblyInfo.cs
+C:\Users\ayf54\source\repos\matematik\matematik\obj\Debug\net8.0\matematik.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\matematik\matematik\obj\Debug\net8.0\matematik.dll
+C:\Users\ayf54\source\repos\matematik\matematik\obj\Debug\net8.0\refint\matematik.dll
+C:\Users\ayf54\source\repos\matematik\matematik\obj\Debug\net8.0\matematik.pdb
+C:\Users\ayf54\source\repos\matematik\matematik\obj\Debug\net8.0\matematik.genruntimeconfig.cache
+C:\Users\ayf54\source\repos\matematik\matematik\obj\Debug\net8.0\ref\matematik.dll

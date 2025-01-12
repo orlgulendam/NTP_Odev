@@ -1,0 +1,14 @@
+C:\Users\ayf54\source\repos\index1\index1\bin\Debug\net8.0\index1.exe
+C:\Users\ayf54\source\repos\index1\index1\bin\Debug\net8.0\index1.deps.json
+C:\Users\ayf54\source\repos\index1\index1\bin\Debug\net8.0\index1.runtimeconfig.json
+C:\Users\ayf54\source\repos\index1\index1\bin\Debug\net8.0\index1.dll
+C:\Users\ayf54\source\repos\index1\index1\bin\Debug\net8.0\index1.pdb
+C:\Users\ayf54\source\repos\index1\index1\obj\Debug\net8.0\index1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayf54\source\repos\index1\index1\obj\Debug\net8.0\index1.AssemblyInfoInputs.cache
+C:\Users\ayf54\source\repos\index1\index1\obj\Debug\net8.0\index1.AssemblyInfo.cs
+C:\Users\ayf54\source\repos\index1\index1\obj\Debug\net8.0\index1.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\index1\index1\obj\Debug\net8.0\index1.dll
+C:\Users\ayf54\source\repos\index1\index1\obj\Debug\net8.0\refint\index1.dll
+C:\Users\ayf54\source\repos\index1\index1\obj\Debug\net8.0\index1.pdb
+C:\Users\ayf54\source\repos\index1\index1\obj\Debug\net8.0\index1.genruntimeconfig.cache
+C:\Users\ayf54\source\repos\index1\index1\obj\Debug\net8.0\ref\index1.dll

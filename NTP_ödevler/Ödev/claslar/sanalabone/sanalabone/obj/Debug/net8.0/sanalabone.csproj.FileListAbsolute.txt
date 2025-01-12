@@ -1,0 +1,14 @@
+C:\Users\ayf54\source\repos\sanalabone\sanalabone\bin\Debug\net8.0\sanalabone.exe
+C:\Users\ayf54\source\repos\sanalabone\sanalabone\bin\Debug\net8.0\sanalabone.deps.json
+C:\Users\ayf54\source\repos\sanalabone\sanalabone\bin\Debug\net8.0\sanalabone.runtimeconfig.json
+C:\Users\ayf54\source\repos\sanalabone\sanalabone\bin\Debug\net8.0\sanalabone.dll
+C:\Users\ayf54\source\repos\sanalabone\sanalabone\bin\Debug\net8.0\sanalabone.pdb
+C:\Users\ayf54\source\repos\sanalabone\sanalabone\obj\Debug\net8.0\sanalabone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayf54\source\repos\sanalabone\sanalabone\obj\Debug\net8.0\sanalabone.AssemblyInfoInputs.cache
+C:\Users\ayf54\source\repos\sanalabone\sanalabone\obj\Debug\net8.0\sanalabone.AssemblyInfo.cs
+C:\Users\ayf54\source\repos\sanalabone\sanalabone\obj\Debug\net8.0\sanalabone.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\sanalabone\sanalabone\obj\Debug\net8.0\sanalabone.dll
+C:\Users\ayf54\source\repos\sanalabone\sanalabone\obj\Debug\net8.0\refint\sanalabone.dll
+C:\Users\ayf54\source\repos\sanalabone\sanalabone\obj\Debug\net8.0\sanalabone.pdb
+C:\Users\ayf54\source\repos\sanalabone\sanalabone\obj\Debug\net8.0\sanalabone.genruntimeconfig.cache
+C:\Users\ayf54\source\repos\sanalabone\sanalabone\obj\Debug\net8.0\ref\sanalabone.dll

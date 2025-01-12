@@ -1,0 +1,14 @@
+C:\Users\ayf54\source\repos\örn\örn\obj\Debug\net8.0\örn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayf54\source\repos\örn\örn\obj\Debug\net8.0\örn.AssemblyInfoInputs.cache
+C:\Users\ayf54\source\repos\örn\örn\obj\Debug\net8.0\örn.AssemblyInfo.cs
+C:\Users\ayf54\source\repos\örn\örn\obj\Debug\net8.0\örn.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\örn\örn\bin\Debug\net8.0\örn.exe
+C:\Users\ayf54\source\repos\örn\örn\bin\Debug\net8.0\örn.deps.json
+C:\Users\ayf54\source\repos\örn\örn\bin\Debug\net8.0\örn.runtimeconfig.json
+C:\Users\ayf54\source\repos\örn\örn\bin\Debug\net8.0\örn.dll
+C:\Users\ayf54\source\repos\örn\örn\bin\Debug\net8.0\örn.pdb
+C:\Users\ayf54\source\repos\örn\örn\obj\Debug\net8.0\örn.dll
+C:\Users\ayf54\source\repos\örn\örn\obj\Debug\net8.0\refint\örn.dll
+C:\Users\ayf54\source\repos\örn\örn\obj\Debug\net8.0\örn.pdb
+C:\Users\ayf54\source\repos\örn\örn\obj\Debug\net8.0\örn.genruntimeconfig.cache
+C:\Users\ayf54\source\repos\örn\örn\obj\Debug\net8.0\ref\örn.dll

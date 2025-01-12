@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayf54\\source\\repos\\\u00F6rn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0C1EAA-B677-4B00-9B31-2926CE066B5A}|\u00F6rn\\\u00F6rn.csproj|c:\\users\\ayf54\\source\\repos\\\u00F6rn\\\u00F6rn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0C1EAA-B677-4B00-9B31-2926CE066B5A}|\u00F6rn\\\u00F6rn.csproj|solutionrelative:\u00F6rn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayf54\\source\\repos\\\u00F6rn\\\u00F6rn\\Program.cs",
+              "RelativeDocumentMoniker": "\u00F6rn\\Program.cs",
+              "ToolTip": "C:\\Users\\ayf54\\source\\repos\\\u00F6rn\\\u00F6rn\\Program.cs",
+              "RelativeToolTip": "\u00F6rn\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:57:12.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

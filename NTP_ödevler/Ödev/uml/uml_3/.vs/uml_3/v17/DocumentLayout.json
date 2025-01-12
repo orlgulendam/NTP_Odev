@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayf54\\source\\repos\\uml_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44AD220E-0717-4D36-8F9F-11C128DA6503}|uml_3\\uml_3.csproj|c:\\users\\ayf54\\source\\repos\\uml_3\\uml_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44AD220E-0717-4D36-8F9F-11C128DA6503}|uml_3\\uml_3.csproj|solutionrelative:uml_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayf54\\source\\repos\\uml_3\\uml_3\\Program.cs",
+              "RelativeDocumentMoniker": "uml_3\\Program.cs",
+              "ToolTip": "C:\\Users\\ayf54\\source\\repos\\uml_3\\uml_3\\Program.cs",
+              "RelativeToolTip": "uml_3\\Program.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAIwKcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:47:38.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

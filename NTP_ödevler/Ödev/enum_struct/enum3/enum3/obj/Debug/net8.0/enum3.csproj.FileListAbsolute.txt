@@ -1,0 +1,14 @@
+C:\Users\ayf54\source\repos\enum3\enum3\bin\Debug\net8.0\enum3.exe
+C:\Users\ayf54\source\repos\enum3\enum3\bin\Debug\net8.0\enum3.deps.json
+C:\Users\ayf54\source\repos\enum3\enum3\bin\Debug\net8.0\enum3.runtimeconfig.json
+C:\Users\ayf54\source\repos\enum3\enum3\bin\Debug\net8.0\enum3.dll
+C:\Users\ayf54\source\repos\enum3\enum3\bin\Debug\net8.0\enum3.pdb
+C:\Users\ayf54\source\repos\enum3\enum3\obj\Debug\net8.0\enum3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayf54\source\repos\enum3\enum3\obj\Debug\net8.0\enum3.AssemblyInfoInputs.cache
+C:\Users\ayf54\source\repos\enum3\enum3\obj\Debug\net8.0\enum3.AssemblyInfo.cs
+C:\Users\ayf54\source\repos\enum3\enum3\obj\Debug\net8.0\enum3.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\enum3\enum3\obj\Debug\net8.0\enum3.dll
+C:\Users\ayf54\source\repos\enum3\enum3\obj\Debug\net8.0\refint\enum3.dll
+C:\Users\ayf54\source\repos\enum3\enum3\obj\Debug\net8.0\enum3.pdb
+C:\Users\ayf54\source\repos\enum3\enum3\obj\Debug\net8.0\enum3.genruntimeconfig.cache
+C:\Users\ayf54\source\repos\enum3\enum3\obj\Debug\net8.0\ref\enum3.dll

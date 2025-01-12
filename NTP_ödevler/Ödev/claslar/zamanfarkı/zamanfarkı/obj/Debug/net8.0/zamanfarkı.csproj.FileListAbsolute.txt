@@ -1,0 +1,14 @@
+C:\Users\ayf54\source\repos\zamanfarkı\zamanfarkı\bin\Debug\net8.0\zamanfarkı.exe
+C:\Users\ayf54\source\repos\zamanfarkı\zamanfarkı\bin\Debug\net8.0\zamanfarkı.deps.json
+C:\Users\ayf54\source\repos\zamanfarkı\zamanfarkı\bin\Debug\net8.0\zamanfarkı.runtimeconfig.json
+C:\Users\ayf54\source\repos\zamanfarkı\zamanfarkı\bin\Debug\net8.0\zamanfarkı.dll
+C:\Users\ayf54\source\repos\zamanfarkı\zamanfarkı\bin\Debug\net8.0\zamanfarkı.pdb
+C:\Users\ayf54\source\repos\zamanfarkı\zamanfarkı\obj\Debug\net8.0\zamanfarkı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayf54\source\repos\zamanfarkı\zamanfarkı\obj\Debug\net8.0\zamanfarkı.AssemblyInfoInputs.cache
+C:\Users\ayf54\source\repos\zamanfarkı\zamanfarkı\obj\Debug\net8.0\zamanfarkı.AssemblyInfo.cs
+C:\Users\ayf54\source\repos\zamanfarkı\zamanfarkı\obj\Debug\net8.0\zamanfarkı.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\zamanfarkı\zamanfarkı\obj\Debug\net8.0\zamanfarkı.dll
+C:\Users\ayf54\source\repos\zamanfarkı\zamanfarkı\obj\Debug\net8.0\refint\zamanfarkı.dll
+C:\Users\ayf54\source\repos\zamanfarkı\zamanfarkı\obj\Debug\net8.0\zamanfarkı.pdb
+C:\Users\ayf54\source\repos\zamanfarkı\zamanfarkı\obj\Debug\net8.0\zamanfarkı.genruntimeconfig.cache
+C:\Users\ayf54\source\repos\zamanfarkı\zamanfarkı\obj\Debug\net8.0\ref\zamanfarkı.dll

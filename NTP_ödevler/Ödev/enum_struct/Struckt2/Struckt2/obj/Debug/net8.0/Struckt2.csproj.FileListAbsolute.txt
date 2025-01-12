@@ -1,0 +1,14 @@
+C:\Users\ayf54\source\repos\Struckt2\Struckt2\bin\Debug\net8.0\Struckt2.exe
+C:\Users\ayf54\source\repos\Struckt2\Struckt2\bin\Debug\net8.0\Struckt2.deps.json
+C:\Users\ayf54\source\repos\Struckt2\Struckt2\bin\Debug\net8.0\Struckt2.runtimeconfig.json
+C:\Users\ayf54\source\repos\Struckt2\Struckt2\bin\Debug\net8.0\Struckt2.dll
+C:\Users\ayf54\source\repos\Struckt2\Struckt2\bin\Debug\net8.0\Struckt2.pdb
+C:\Users\ayf54\source\repos\Struckt2\Struckt2\obj\Debug\net8.0\Struckt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayf54\source\repos\Struckt2\Struckt2\obj\Debug\net8.0\Struckt2.AssemblyInfoInputs.cache
+C:\Users\ayf54\source\repos\Struckt2\Struckt2\obj\Debug\net8.0\Struckt2.AssemblyInfo.cs
+C:\Users\ayf54\source\repos\Struckt2\Struckt2\obj\Debug\net8.0\Struckt2.csproj.CoreCompileInputs.cache
+C:\Users\ayf54\source\repos\Struckt2\Struckt2\obj\Debug\net8.0\Struckt2.dll
+C:\Users\ayf54\source\repos\Struckt2\Struckt2\obj\Debug\net8.0\refint\Struckt2.dll
+C:\Users\ayf54\source\repos\Struckt2\Struckt2\obj\Debug\net8.0\Struckt2.pdb
+C:\Users\ayf54\source\repos\Struckt2\Struckt2\obj\Debug\net8.0\Struckt2.genruntimeconfig.cache
+C:\Users\ayf54\source\repos\Struckt2\Struckt2\obj\Debug\net8.0\ref\Struckt2.dll

@@ -1,0 +1,10 @@
+C:\Users\Gülendam\source\repos\adamasmaca1\adamasmaca1\bin\Debug\adamasmaca1.exe.config
+C:\Users\Gülendam\source\repos\adamasmaca1\adamasmaca1\bin\Debug\adamasmaca1.exe
+C:\Users\Gülendam\source\repos\adamasmaca1\adamasmaca1\bin\Debug\adamasmaca1.pdb
+C:\Users\Gülendam\source\repos\adamasmaca1\adamasmaca1\obj\Debug\adamasmaca1.csproj.AssemblyReference.cache
+C:\Users\Gülendam\source\repos\adamasmaca1\adamasmaca1\obj\Debug\adamasmaca1.Form1.resources
+C:\Users\Gülendam\source\repos\adamasmaca1\adamasmaca1\obj\Debug\adamasmaca1.Properties.Resources.resources
+C:\Users\Gülendam\source\repos\adamasmaca1\adamasmaca1\obj\Debug\adamasmaca1.csproj.GenerateResource.cache
+C:\Users\Gülendam\source\repos\adamasmaca1\adamasmaca1\obj\Debug\adamasmaca1.csproj.CoreCompileInputs.cache
+C:\Users\Gülendam\source\repos\adamasmaca1\adamasmaca1\obj\Debug\adamasmaca1.exe
+C:\Users\Gülendam\source\repos\adamasmaca1\adamasmaca1\obj\Debug\adamasmaca1.pdb
